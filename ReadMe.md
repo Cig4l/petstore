@@ -2,6 +2,8 @@
 
 Ce projet **Pet Store** est une application de gestion d'animaux de compagnie permettant de créer, rechercher et manipuler les données d'une boutique d'animaux. Ce guide vous aidera à configurer et à exécuter l'application sur votre environnement local.
 
+# Nom de l'auteur du projet : Coralie Ruiz
+
 ---
 
 ## Prérequis
@@ -24,8 +26,8 @@ git clone https://github.com/Cig4l/petstore.git
 - Accédez au fichier src/main/resources/META-INF/persistence.xml.
 - Modifiez le fichier persistence.xml pour inclure les informations de connexion à votre base de données MariaDB.
 
-## Etape 3 :Créer la base de données :
+## Etape 3 : Créer la base de données :
 Exécutez la classe PetStoreCreation pour générer les tables nécessaires dans la base de données.
 
-## Effectuer des recherches :
+## Etape 4 : Effectuer des recherches :
 Exécutez la classe PetStoreSearch pour lancer des recherches dans la base de données.
